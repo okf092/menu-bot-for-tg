@@ -3,7 +3,7 @@ from aiogram.dispatcher.filters import Text
 
 # I am made only 4 positions, if you need, create more...
 
-bot = Bot('5591277689:AAH99fm7lO4q-kFkVwj8iJfZVlDFazWqqU4')
+bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
 
